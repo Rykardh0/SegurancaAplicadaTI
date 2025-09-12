@@ -1,0 +1,13 @@
+teste ricardo
+
+teste novo commit
+novo teste
+
+teste add commit diferente
+
+//git push
+//git commit -m "Nome_do_Commit"
+//git push
+//git pull
+
+.txt adicionado
