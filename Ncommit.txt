@@ -11,3 +11,7 @@ teste add commit diferente
 //git pull
 
 .txt adicionado
+
+
+
+Texto Novo - Branch 02
