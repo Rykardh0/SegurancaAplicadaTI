@@ -11,3 +11,5 @@ teste add commit diferente
 //git pull
 
 .txt adicionado
+
+Texto Arq 1 - 26/09
